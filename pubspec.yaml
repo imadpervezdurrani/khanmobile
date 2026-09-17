@@ -1,0 +1,33 @@
+name: mobile_management_system
+description: "A production-grade Mobile Shop and Inventory Management System connected with Firebase."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Suite
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+
+  # State Management & Architecture
+  provider: ^6.1.2
+
+  # UI & Charts
+  google_fonts: ^6.2.1
+  fl_chart: ^0.69.0
+  intl: ^0.19.0
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

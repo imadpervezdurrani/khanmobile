@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379678515839",
+    "project_id": "ile-shop-managment-system",
+    "storage_bucket": "ile-shop-managment-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379678515839:android:4cb6e92694a7828f50954a",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379678515839-690alu8t81hhjtrg67qg14vb35vui893.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_GabOlvReeSoex6x9oq9xcL1vd4_U0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379678515839-690alu8t81hhjtrg67qg14vb35vui893.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
